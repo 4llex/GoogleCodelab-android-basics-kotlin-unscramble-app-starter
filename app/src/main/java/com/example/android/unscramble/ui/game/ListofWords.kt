@@ -46,7 +46,7 @@ val allWordsList: List<String> =
         "class",
         "classic",
         "classroom",
-        "coffee",
+        "cafe",
         "colorful",
         "cookie",
         "creative",
